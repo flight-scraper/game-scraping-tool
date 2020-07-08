@@ -16,3 +16,7 @@ jobs:
     - run: npm test
       env:
         CI: true
+        consumer_key: lkajsdlfjlajdf
+        consumer_secret: alkdsflkajsdlfjasdf
+        access_token: lkasjdlfkjalsdfjjlsadf
+        access_token_secret: lkajsdljasd
