@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test-scraper": "node ./lib/utils/getListOfUsers.js",
+    "test-scraper": "node ./lib/utils/getGameRecc.js",
     "test-twitter": "node ./lib/utils/twitterBot.js",
     "test": "jest --verbose --runInBand --testLocationInResults",
     "test:watch": "npm run test -- --watch",
